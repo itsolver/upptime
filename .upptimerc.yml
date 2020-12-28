@@ -6,9 +6,9 @@ repo: upptime # Your Github repository name
 sites:
   - name: IT Solver
     url: https://www.itsolver.net
-  - name: IT Solver - Support Centre
+  - name: IT Solver Support
     url: https://support.itsolver.net
-  - name: IT Solver - Shop
+  - name: IT Solver Shop
     url: https://shop.itsolver.net
 
 status-website:
@@ -17,13 +17,13 @@ status-website:
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
   logoUrl: https://raw.githubusercontent.com/itsolver/upptime/master/it-solver-logo.svg
-  name: IT Solver Status
-  introTitle: "**IT Solver** uptime monitor and status page."
-  introMessage: This page provides status information on the services that are part of IT Solver. Check back here to view the current status of the services listed below. For additional information on these services, please visit [itsolver.net](https://www.itsolver.net).
+  name: System Status
+  introTitle: "Need help with something?"
+  introMessage: Visit [itsolver.net/contact](https://www.itsolver.net/contact) to get in touch.
   navbar:
     - title: Status
       href: /
-    - title: GitHub
-      href: https://github.com/$OWNER/$REPO
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
+assignees:
+  - itsolver
