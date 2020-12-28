@@ -1,34 +1,29 @@
 # Change these first
-owner: upptime # Your GitHub username
+owner: itsolver # Your GitHub username
 repo: upptime # Your Github repository name
 
 # Add your sites here
 sites:
-  - name: Google
-    url: https://www.google.com
-  - name: Wikipedia
-    url: https://en.wikipedia.org
-  - name: Hacker News
-    url: https://news.ycombinator.com
-  - name: Broken Site
-    url: https://thissitedoesnotexist.com
-  - name: Secret Site
-    url: $SECRET_SITE
+  - name: IT Solver
+    url: https://www.itsolver.net
+  - name: IT Solver - Support Centre
+    url: https://support.itsolver.net
+  - name: IT Solver - Shop
+    url: https://shop.itsolver.net
 
 status-website:
   # Add your custom domain below, or remove the next line if you don't have a domain
-  cname: demo.upptime.js.org
+  cname: status.itsolver.net
   # Uncomment the following line if you don't have a custom domain and add your repo name
   # baseUrl: /upptime
-  logoUrl: https://raw.githubusercontent.com/upptime/upptime.js.org/master/static/img/icon.svg
-  name: Upptime
-  introTitle: "**Upptime** is the open-source uptime monitor and status page, powered entirely by GitHub."
-  introMessage: This is a sample status page which uses **real-time** data from our [Github repository](https://github.com/upptime/upptime). No server required — just GitHub Actions, Issues, and Pages. [**Get your own for free**](https://github.com/upptime/upptime)
+  logoUrl: https://raw.githubusercontent.com/itsolver/upptime/master/it-solver-logo.svg
+  name: IT Solver Status
+  introTitle: "**IT Solver** uptime monitor and status page."
+  introMessage: This page provides status information on the services that are part of IT Solver. Check back here to view the current status of the services listed below. For additional information on these services, please visit [itsolver.net](https://www.itsolver.net).
   navbar:
     - title: Status
       href: /
     - title: GitHub
       href: https://github.com/$OWNER/$REPO
-
 # Upptime also supports notifications, assigning issues, and more
 # See https://upptime.js.org/docs/configuration
