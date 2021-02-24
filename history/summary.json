@@ -4,9 +4,9 @@
     "url": "https://www.itsolver.net",
     "icon": "https://favicons.githubusercontent.com/www.itsolver.net",
     "slug": "it-solver",
-    "status": "up",
+    "status": "down",
     "uptime": "99.97%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "99.97%",
@@ -16,6 +16,7 @@
     "timeMonth": 242,
     "timeYear": 329,
     "dailyMinutesDown": {
+      "2021-02-24": 0,
       "2021-01-12": 27
     }
   },
