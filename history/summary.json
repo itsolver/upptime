@@ -25,9 +25,9 @@
     "url": "https://support.itsolver.net",
     "icon": "https://favicons.githubusercontent.com/support.itsolver.net",
     "slug": "it-solver-support",
-    "status": "up",
+    "status": "down",
     "uptime": "100.00%",
-    "uptimeDay": "100.00%",
+    "uptimeDay": "99.99%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
@@ -36,7 +36,9 @@
     "timeWeek": 1540,
     "timeMonth": 1644,
     "timeYear": 1913,
-    "dailyMinutesDown": {}
+    "dailyMinutesDown": {
+      "2021-03-07": 0
+    }
   },
   {
     "name": "IT Solver Shop",
