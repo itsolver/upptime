@@ -10,11 +10,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.86%",
     "uptimeYear": "99.92%",
-    "time": 315,
-    "timeDay": 309,
-    "timeWeek": 279,
-    "timeMonth": 234,
-    "timeYear": 315,
+    "time": 313,
+    "timeDay": 115,
+    "timeWeek": 262,
+    "timeMonth": 235,
+    "timeYear": 313,
     "dailyMinutesDown": {
       "2021-02-24": 62,
       "2021-01-12": 27
@@ -26,16 +26,16 @@
     "icon": "https://favicons.githubusercontent.com/support.itsolver.net",
     "slug": "it-solver-support",
     "status": "up",
-    "uptime": "99.89%",
+    "uptime": "99.90%",
     "uptimeDay": "100.00%",
     "uptimeWeek": "100.00%",
     "uptimeMonth": "99.73%",
-    "uptimeYear": "99.89%",
-    "time": 1969,
-    "timeDay": 3881,
-    "timeWeek": 1696,
-    "timeMonth": 1960,
-    "timeYear": 1969,
+    "uptimeYear": "99.90%",
+    "time": 1994,
+    "timeDay": 3945,
+    "timeWeek": 1968,
+    "timeMonth": 2058,
+    "timeYear": 1994,
     "dailyMinutesDown": {
       "2021-03-07": 118
     }
@@ -51,11 +51,11 @@
     "uptimeWeek": "100.00%",
     "uptimeMonth": "100.00%",
     "uptimeYear": "100.00%",
-    "time": 212,
-    "timeDay": 127,
-    "timeWeek": 230,
-    "timeMonth": 208,
-    "timeYear": 212,
+    "time": 211,
+    "timeDay": 109,
+    "timeWeek": 231,
+    "timeMonth": 205,
+    "timeYear": 211,
     "dailyMinutesDown": {}
   }
 ]
